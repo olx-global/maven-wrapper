@@ -1,3 +1,7 @@
+# DEPRECATED [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+This repository is now deprecated and it will be available until 01.06.2021.
+
 # Maven Wrapper
 
 The Maven Wrapper is an easy way to ensure a user of your Maven build has everything necessary to run your Maven build.
